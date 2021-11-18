@@ -6,5 +6,5 @@ cp_metalworks_rc7
 cp_process_f9a
 cp_reckoner_rc2
 cp_snakewater_u14
-cp_sunshine_rc9
+cp_sunshine
 koth_clearcut_b15d

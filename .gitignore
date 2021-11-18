@@ -13,6 +13,12 @@ cfg/*
 !maps/
 maps/*
 
+# sp source folder
+!scripts_source/
+
+# everything in here should be fine
+!scripts_source/*
+
 #specifically include only these files
 !cfg/server_copy.cfg
 !cfg/motd.txt
@@ -23,7 +29,7 @@ maps/*
 !maps/cp_process_f9a.bsp
 !maps/cp_reckoner_rc2.bsp
 !maps/cp_snakewater_u14.bsp
-!maps/cp_sunshine_rc9.bsp
+!maps/cp_sunshine.bsp
 !maps/koth_clearcut_b15d.bsp
 !maps/koth_product_final.bsp
 !maps/pl_badwater_pro_v12.bsp
