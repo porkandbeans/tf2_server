@@ -28,3 +28,8 @@ maps/workshop/
 !cfg/server_copy.cfg
 !cfg/motd.txt
 !cfg/mapcycle.txt
+
+# too big
+maps/koth_lazarus.bsp
+maps/pl_frontier_final.bsp
+maps/pl_upward.bsp
