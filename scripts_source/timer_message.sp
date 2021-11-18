@@ -1,7 +1,7 @@
 #include <sourcemod>
 
 public void OnPluginStart(){
-	CreateTimer(120.0, Message, _, TIMER_REPEAT);
+	CreateTimer(240.0, Message, _, TIMER_REPEAT);
 }
 
 public Action Message(Handle timer){
