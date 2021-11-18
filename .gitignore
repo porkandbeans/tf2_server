@@ -11,7 +11,11 @@ cfg/*
 
 # maps folder
 !maps/
-maps/*
+
+# but please exclude these subdirectories
+maps/trash/
+maps/graphs/
+maps/workshop/
 
 # sp source folder
 !scripts_source/
@@ -19,17 +23,8 @@ maps/*
 # everything in here should be fine
 !scripts_source/*
 
+
 #specifically include only these files
 !cfg/server_copy.cfg
 !cfg/motd.txt
 !cfg/mapcycle.txt
-!maps/cp_granary_pro_rc8.bsp
-!maps/cp_gullywash_f4a.bsp
-!maps/cp_metalworks_rc7.bsp
-!maps/cp_process_f9a.bsp
-!maps/cp_reckoner_rc2.bsp
-!maps/cp_snakewater_u14.bsp
-!maps/cp_sunshine.bsp
-!maps/koth_clearcut_b15d.bsp
-!maps/koth_product_final.bsp
-!maps/pl_badwater_pro_v12.bsp

@@ -2,8 +2,11 @@ koth_product_final
 cp_granary_pro_rc8
 pl_badwater_pro_v12
 cp_gullywash_f4a
+pl_upward
 cp_metalworks_rc7
+koth_clearcut_b15d
 cp_process_f9a
+pl_borneo
 cp_reckoner_rc2
 cp_snakewater_u14
 cp_sunshine
