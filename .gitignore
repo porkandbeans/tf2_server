@@ -1,0 +1,13 @@
+# ignore everything
+/*
+
+# whitelist
+!.gitignore
+!README.md
+
+# cfg folder
+!cfg/
+cfg/*
+
+!cfg/server_copy.cfg
+!cfg/motd.txt
