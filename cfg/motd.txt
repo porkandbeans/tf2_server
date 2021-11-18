@@ -9,3 +9,6 @@ steamcommunity.com/id/Gokritz_bot/
 
 Join the Discord:
 https://discord.gg/ZFGuTfx
+
+View the Github:
+https://github.com/porkandbeans/tf2_server
