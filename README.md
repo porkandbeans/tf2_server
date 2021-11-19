@@ -16,6 +16,8 @@ https://steamcommunity.com/id/Gokritz_bot/
 ### IF YOU WANNA COPY THIS
 DON'T clone the repo, find a guide somewhere else for setting up a TF2 server. Get it to hello world, and then copy over these files into your tf folder/directory.
 
+YOU WILL NEED METAMOD AND SOURCEMOD INSTALLED AND SET UP BEFORE USING THE PLUGINS
+
 rename server_copy.cfg to server.cfg, and MODIFY it in notepad or a text editor or something to change stuff like your RCON password, server name, etc etc
 
 CHECK .gitignore FOR MAPS THAT I HAVE EXCLUDED - SOME OF THEM WERE TOO BIG
