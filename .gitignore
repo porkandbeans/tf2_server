@@ -23,11 +23,13 @@ maps/workshop/
 # everything in here should be fine
 !scripts_source/*
 
-
 #specifically include only these files
 !cfg/server_copy.cfg
 !cfg/motd.txt
 !cfg/mapcycle.txt
+!cfg/pl.cfg
+!cfg/5cp.cfg
+!cfg/koth.cfg
 
 # too big
 maps/koth_lazarus.bsp
